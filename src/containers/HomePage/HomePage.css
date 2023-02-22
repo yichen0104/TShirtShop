@@ -1,0 +1,23 @@
+.index-info-box{
+    width: 500px;
+    border: 5px solid #446695;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    color:#888888;
+}
+
+.index-info-box p{
+    font-size: 16pt;
+    color:#446695;
+}
+.info-container{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.image-container img{
+    width: 100%;
+}

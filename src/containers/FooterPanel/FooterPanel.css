@@ -1,0 +1,42 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #446695;
+    color: #fff;
+    min-height: 100px;
+    margin: 0;
+}
+
+.footer-navbar-btn{
+    padding: 15px 35px;
+    display: inline-block;
+}
+
+.footer-navbar-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-navbar{
+    width: 70%;
+    overflow: auto;
+}
+
+.footer-navbar a{
+    float: left;
+    padding: 15px 0px;
+    color: #cccccc;
+    text-decoration: none;
+    width: 20%; 
+    text-align: center; 
+}
+
+.footer-navbar a:hover{
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+.footer-author{
+    margin-left: 100px;
+}
